@@ -173,6 +173,7 @@
 				TargetAttributes = {
 					7C6AF72F1B84B1B600F6FCD8 = {
 						CreatedOnToolsVersion = 6.4;
+						DevelopmentTeam = 4FGE2T62F7;
 					};
 					7C6AF7481B84B1B600F6FCD8 = {
 						CreatedOnToolsVersion = 6.4;
@@ -353,6 +354,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = UsingASL/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -363,6 +365,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = UsingASL/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -422,6 +425,7 @@
 				7C6AF7551B84B1B600F6FCD8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7C6AF7561B84B1B600F6FCD8 /* Build configuration list for PBXNativeTarget "UsingASLTests" */ = {
 			isa = XCConfigurationList;
@@ -430,6 +434,7 @@
 				7C6AF7581B84B1B600F6FCD8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
