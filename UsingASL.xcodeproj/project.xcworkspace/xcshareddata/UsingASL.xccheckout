@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F63B33E1-5DF1-49E6-BA78-A4A4C01DFFC1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>UsingASL</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AD2B73F132DFA8E9F6C146050E0E6BFDFA9735E1</key>
+		<string>https://github.com/brunov0id/UsingASL.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>UsingASL.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AD2B73F132DFA8E9F6C146050E0E6BFDFA9735E1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/brunov0id/UsingASL.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AD2B73F132DFA8E9F6C146050E0E6BFDFA9735E1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AD2B73F132DFA8E9F6C146050E0E6BFDFA9735E1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>UsingASL</string>
+		</dict>
+	</array>
+</dict>
+</plist>
