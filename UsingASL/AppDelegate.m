@@ -7,6 +7,7 @@
 //
 
 #import "AppDelegate.h"
+#import "LogAsl.h"
 
 @interface AppDelegate ()
 
@@ -17,6 +18,16 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    
+    aslEmergency(@"TESTING ASL EMERGENCY");
+    aslAlert(@"TESTING ASL ALERT");
+    aslCritical(@"TESTING ASL CRITICAL");
+    aslWarning(@"TESTING ASL WARNING");
+    aslInfo(@"TESTING ASL INFO");
+    aslNotice(@"TESTING ASL NOTICE");
+    aslError(@"TESTING ASL ERROR");
+    aslDebug(@"TESTING ASL DEBUG");
+    
     return YES;
 }
 
